@@ -1,4 +1,4 @@
-# Unity Space Shooter
+# Unity Galaxy Shooter C# Scripts
 
 A simple 2D space shooter game built in Unity (2019.4.40f1), demonstrating core gameplay mechanics including player control, enemy spawning, power-ups, and UI management.
 
